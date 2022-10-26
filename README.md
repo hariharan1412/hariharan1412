@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Hariharan
-- 👀 I’m interested in Programming, Blockchain, Cryptograpy, AI.
-- 🌱 I’m currently studying Masters in Computer Applications.
-- 📫 How to reach me Gmail:hariharan141200@gmail.com LinkedIn:www.linkedin.com/in/hari-haran-089b481b2
+- 👋 Hi, I’m **_Hariharan_**.
+- 👀 I’m interested in **_Programming, Blockchain, Cryptograpy, AI_**.
+- 👨🏻‍🎓 I’m currently studying **_Masters in Computer Applications_**.
+- 📫 How to reach me
+
+    - **Gmail** : hariharan141200@gmail.com
+    - **LinkedIn** : www.linkedin.com/in/hari-haran-089b481b2
 
 <!---
 hariharan1412/hariharan1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
