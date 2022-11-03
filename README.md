@@ -1,6 +1,7 @@
 - 👋 Hi, I’m **_Hariharan_**.
 - 👀 I’m interested in **_Programming, Blockchain, Cryptograpy, AI_**.
 - 👨🏻‍🎓 I’m currently studying **_Masters in Computer Applications_**.
+- 💞 I’m looking to collaborate on all types of projects, i want to be my skills such high and compititive that there is no boundary for any type of task in any type of platform or language
 - 📫 How to reach me
 
     - **Gmail** : hariharan141200@gmail.com
