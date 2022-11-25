@@ -11,7 +11,7 @@
 - 📫 How to reach me
 
     - **Gmail** : hariharan141200@gmail.com
-    - **LinkedIn** : www.linkedin.com/in/hari-haran-089b481b2
+    - **LinkedIn** : www.linkedin.com/in/hariharan1412
 
 <!---
 hariharan1412/hariharan1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
