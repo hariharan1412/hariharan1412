@@ -6,7 +6,7 @@
 <h4 align="center"><b>A Computer Science Enthusiast.</b> </h4>
 
 ---
-<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="code" align="right" width=300 height=350 >
+<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="code" align="right" width=250 height=300 >
 
 </br>
 
