@@ -6,7 +6,7 @@
 <h4 align="center"><b>A Computer Science Enthusiast.</b> </h4>
 
 ---
-<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="code" align="right" width=250 height=300 >
+<!-- <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" alt="code" align="right" width=250 height=300 > -->
 
 </br>
 
@@ -28,7 +28,7 @@
 
 <b>Conway's Game of Life :</b>
 
-<img src="GameofLife1.gif" width="1000" height="300" />
+<img src="GameofLife2.gif"/>
 
 
 <!---
