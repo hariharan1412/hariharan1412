@@ -26,7 +26,7 @@
 
  
 </br>
- <b> Conway's Game of Life </b>  : is a cellular automation and zero player game(for more info :<a href="https://github.com/hariharan1412/GameofLife"> My Repo</a>)
+ <b> Conway's Game of Life </b>  : is a cellular automation and zero player game (for more info :<a href="https://github.com/hariharan1412/GameofLife"> My Repo</a>)
 <img src="GameofLife2.gif"/>
 
 
