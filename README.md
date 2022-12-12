@@ -15,7 +15,7 @@
 - 👨🏻‍🎓 I’m currently pursuing **_Master of Computer Applications_**.
 
 
-- 💞 I’m looking to collaborate on all types of projects, I want my skills to be such high and competitive with no boundary 
+- 💞 I’m looking to collaborate on all types of projects, and I want my skills to be high and competitive with no boundaries.
 
 
 - 📫 How to reach me : hariharan141200@gmail.com
