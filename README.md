@@ -15,7 +15,7 @@
 - 👨🏻‍🎓 I’m currently pursuing **_Master of Computer Applications_**.
 
 
-- 💞 I’m looking to collaborate on all types of projects, and I want my skills to be high and competitive with no boundaries.
+- 💞 I’m looking to collaborate on all types of projects and I want my skills to be high and competitive with no boundaries.
 
 
 - 📫 How to reach me : hariharan141200@gmail.com
@@ -26,7 +26,7 @@
 
  
 </br>
- <b> Conway's Game of Life </b>  : is a cellular automation and zero player game (for more info :<a href="https://github.com/hariharan1412/GameofLife"> My Repo</a>)
+ <b> Conway's Game of Life </b>  is a cellular automation and zero player game (for more info :<a href="https://github.com/hariharan1412/GameofLife"> My Repo</a>)
 <img src="GameofLife2.gif"/>
 
 
