@@ -10,7 +10,7 @@
 
 <!-- </br> -->
 
-- 👀 I’m interested in **_Programming, Blockchain, Cryptograpy, Artificial Intelligence_**.
+- 👀 I’m interested in **_Programming, Blockchain, Cryptograpy, Artificial Intelligence_** and **_Web Development_**.
 
 - 👨🏻‍🎓 I’m currently pursuing **_Master of Computer Applications_**.
 
