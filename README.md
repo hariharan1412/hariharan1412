@@ -21,6 +21,20 @@
 
 ---
 
+### 🎮 Conway’s Game of Life
+
+A simulation of cellular automata — where simple rules lead to complex, emergent behavior.  
+Built for fun, learning, and exploring patterns in a zero-player world.
+
+📂 [View the repository](https://github.com/hariharan1412/GameofLife)
+
+<p align="center">
+  <img src="GameofLife2.gif" alt="Game of Life Simulation" />
+</p>
+
+
+---
+
 ### 🛠 Tech I Work With
 
 - **Languages:** Python, JavaScript, Bash  
@@ -28,15 +42,6 @@
 - **3D + Vision:** COLMAP, NeRF, Gaussian Splatting, SfM  
 - **Infra & APIs:** FastAPI, Docker, Firebase, REST  
 - **DevOps & Tools:** Kubernetes, GitHub Actions, Linux
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hariharan1412&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan1412&theme=radical" width="400"/>
-</p>
 
 ---
 
