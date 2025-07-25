@@ -17,7 +17,7 @@
 - 🌱 Constantly learning, improving, and staying close to execution — not just theory.
 
 - 📫 Reach me at **hariharan141200@gmail.com**  
-  💼 Connect on [LinkedIn](https://www.linkedin.com/in/hariharan141200)
+  💼 Connect on [LinkedIn](https://www.linkedin.com/in/hariharan1412)
 
 ---
 
